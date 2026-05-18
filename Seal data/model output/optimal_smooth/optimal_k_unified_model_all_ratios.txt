@@ -1,0 +1,37 @@
+"var"	"k"	"BIC"	"dev.expl"	"selected"
+"Dist. to haulout"	3	-19467.7167930423	62.5	TRUE
+"Dist. to haulout"	4	-19441.1863521839	63	FALSE
+"Dist. to haulout"	5	-19397.1492338617	62.7	FALSE
+"Dist. to haulout"	6	-19375.0300589003	62.7	FALSE
+"Dist. to haulout"	7	-19352.9866019319	62.7	FALSE
+"Dist. to haulout"	8	-19336.6762442539	62.7	FALSE
+"Wave exposure index"	3	-19815.8171025185	61.9	TRUE
+"Wave exposure index"	4	-19806.3630046359	62	FALSE
+"Wave exposure index"	5	-19792.5338610119	62	FALSE
+"Wave exposure index"	6	-19788.4255987618	62	FALSE
+"Wave exposure index"	7	-19767.1353738811	62	FALSE
+"Wave exposure index"	8	-19756.2579566758	62	FALSE
+"Sea floor rugosity"	3	-21009.1132889008	69.9	TRUE
+"Sea floor rugosity"	4	-20499.446433883	66.2	FALSE
+"Sea floor rugosity"	5	-20499.7278981731	66.2	FALSE
+"Sea floor rugosity"	6	-19874.9528861707	61.8	FALSE
+"Sea floor rugosity"	7	-19875.163271263	61.8	FALSE
+"Sea floor rugosity"	8	-19911.9302351813	61.8	FALSE
+"Sea bottom oxygen"	3	-19837.2841204784	62.1	FALSE
+"Sea bottom oxygen"	4	-20916.4417690613	69.8	TRUE
+"Sea bottom oxygen"	5	-19868.2774766374	62.3	FALSE
+"Sea bottom oxygen"	6	-19831.4858287884	62.5	FALSE
+"Sea bottom oxygen"	7	-19812.1325248817	62.6	FALSE
+"Sea bottom oxygen"	8	-19790.4910621687	62.7	FALSE
+"Sea surface salinity"	3	-19845.8083004938	62	TRUE
+"Sea surface salinity"	4	-19820.3758930053	62.1	FALSE
+"Sea surface salinity"	5	-19814.1261979982	62.2	FALSE
+"Sea surface salinity"	6	-19773.9375296728	62.3	FALSE
+"Sea surface salinity"	7	-19748.091441829	62.5	FALSE
+"Sea surface salinity"	8	-19737.9415337184	62.4	FALSE
+"Current velocity"	3	-20913.900792408	69.2	TRUE
+"Current velocity"	4	-19893.274208663	61.9	FALSE
+"Current velocity"	5	-19863.0141937903	62	FALSE
+"Current velocity"	6	-19859.7074082081	62	FALSE
+"Current velocity"	7	-19853.1659747989	62	FALSE
+"Current velocity"	8	-19826.6043604547	62	FALSE

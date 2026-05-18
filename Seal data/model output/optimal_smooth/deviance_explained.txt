@@ -1,0 +1,10 @@
+"Model"	"dev.explained"	"BIC"
+"full model"	-9.4	-19465.2937717087
+"minus sediment"	-10.1	-19507.7589641762
+"minus rugosity"	-9.6	-19509.3401706846
+"minus dist2haulout"	-45.3	-19621.358753669
+"minus WaveExpIndex"	-9.6	-19482.0275354455
+"minus curr_velocity"	-9.4	-19464.3691322894
+"minus sss"	-9.5	-19487.3623289919
+"minus sboxy"	-11.1	-19499.7301719921
+"minus Year"	-9.8	-19553.528817461

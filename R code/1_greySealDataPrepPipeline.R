@@ -15,7 +15,7 @@
 #
 # KEY INPUTS:
 #   - trackingData_sampled.rda    : GPS tracking data (used locations)
-#   - stack_env_cov.grd           : Raster stack of environmental covariates
+#   - stack_env_cov.grd           : Raster stack of environmental covariates (needs to be downloaded from van Beest, F. M. (2026). Raster data for SDM_seals_IP21. Zenodo. https://doi.org/10.5281/zenodo.20267043)
 #   - GreySeal_capture_sites.xlsx : Capture/haulout site coordinates
 #   - EUSeaMap sediment raster    : Used to define sea-only availability mask
 # =============================================================================
