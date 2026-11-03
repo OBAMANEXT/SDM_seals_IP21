@@ -33,7 +33,7 @@ library(grid)
 library(plyr)
 
 # ---- Paths (edit once) ------------------------------------------------------
-BASE       <- "~/Documents/GitHub/SDM_seals_IP21"
+BASE       <- "~/Documents/GitHub/SDM_seals_IP21/grey_seals"
 SEAL     <- file.path(BASE, "Seal data")
 GIS      <- file.path(SEAL, "GIS")
 FIG_DIR  <- file.path(SEAL, "Figures")

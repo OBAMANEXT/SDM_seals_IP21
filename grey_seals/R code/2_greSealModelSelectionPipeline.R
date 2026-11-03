@@ -27,7 +27,7 @@ library(corrplot)
 library(usdm)
 
 # ---- Paths ------------------------------------------------------------------
-BASE    <- "~/Documents/GitHub/SDM_seals_IP21"
+BASE    <- "~/Documents/GitHub/SDM_seals_IP21/grey_seals"
 SEAL    <- file.path(BASE, "Seal data")
 FIG_DIR <- file.path(SEAL, "Figures")
 MOD_DIR <- file.path(SEAL, "model output/optimal_smooth")

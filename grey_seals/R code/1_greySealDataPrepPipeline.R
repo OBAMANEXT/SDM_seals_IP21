@@ -29,9 +29,9 @@ library(readxl)
 library(mefa)
 
 # ---- File paths (edit once here, used throughout) ---------------------------
-BASE       <- "~/Documents/GitHub/SDM_seals_IP21"
+BASE       <- "~/Documents/GitHub/SDM_seals_IP21/grey_seals"
 SEAL_DIR   <- file.path(BASE, "Seal data")
-COV_STACK  <- file.path(SEAL_DIR, "rasterStack/stack_env_cov.grd")
+COV_STACK  <- file.path(SEAL_DIR, "rasterStack/stack_env_cov.grd") #(needs to be downloaded from van Beest, F. M. (2026). Raster data for SDM_seals_IP21. Zenodo. https://doi.org/10.5281/zenodo.20267043)
 HAULOUT_XL <- file.path(SEAL_DIR, "haulout data/GreySeal_capture_sites.xlsx")
 
 # ---- Ratios to generate -----------------------------------------------------

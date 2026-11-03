@@ -1,0 +1,31 @@
+"var"	"k"	"BIC"	"dev.expl"	"selected"
+"Dist. to haulout"	3	-1589421.46165529	76.2	TRUE
+"Dist. to haulout"	4	-1589410.92502445	76.2	FALSE
+"Dist. to haulout"	5	-1589409.8378096	76.2	FALSE
+"Dist. to haulout"	6	-1589403.49151418	76.2	FALSE
+"Dist. to haulout"	7	-1589399.03230604	76.2	FALSE
+"Dist. to haulout"	8	-1589394.87478389	76.2	FALSE
+"Wave exposure index"	3	-1589368.28826856	76.2	FALSE
+"Wave exposure index"	4	-1589404.18545543	76.2	FALSE
+"Wave exposure index"	5	-1589409.34868644	76.2	TRUE
+"Wave exposure index"	6	-1589407.44419699	76.2	FALSE
+"Wave exposure index"	7	-1589404.66376459	76.2	FALSE
+"Wave exposure index"	8	-1589400.28343534	76.2	FALSE
+"Sea floor rugosity"	3	-1589370.08164692	76.2	FALSE
+"Sea floor rugosity"	4	-1589418.13514711	76.2	TRUE
+"Sea floor rugosity"	5	-1589406.23723792	76.2	FALSE
+"Sea floor rugosity"	6	-1589404.37225482	76.2	FALSE
+"Sea floor rugosity"	7	-1589398.62005393	76.2	FALSE
+"Sea floor rugosity"	8	-1589393.68943851	76.2	FALSE
+"Sea surface salinity"	3	-1589329.86578438	76.2	FALSE
+"Sea surface salinity"	4	-1589405.19984264	76.2	FALSE
+"Sea surface salinity"	5	-1589404.65401538	76.2	FALSE
+"Sea surface salinity"	6	-1589409.79805404	76.2	TRUE
+"Sea surface salinity"	7	-1589406.68634823	76.2	FALSE
+"Sea surface salinity"	8	-1589403.38581836	76.2	FALSE
+"Current velocity"	3	-1589368.27225321	76.2	FALSE
+"Current velocity"	4	-1589418.00438484	76.2	TRUE
+"Current velocity"	5	-1589405.61016637	76.2	FALSE
+"Current velocity"	6	-1589404.78845684	76.2	FALSE
+"Current velocity"	7	-1589400.04698578	76.2	FALSE
+"Current velocity"	8	-1589392.69756673	76.2	FALSE
